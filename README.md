@@ -32,7 +32,7 @@
     - [X] Cleaned and Converted Custom CSV to PascalVoc XML . 
   
   
-        > Data Preprocessing/Cleaned_CSV2VOCxml.py
+             Data Preprocessing/Cleaned_CSV2VOCxml.py
 
     - [X] Augumented Scaledup DataSet from 500->1200 images . Used Flip X,Shear X,y,Rotation ,Noise
 
@@ -53,12 +53,12 @@
 
     - [X] Converted The BBOX 512images to Instance Segmentation Dataset.  bbox_2_Segmentation_conversion.py
     
-        >data preprocessing/bbox_2_Segmentation_conversion.py 
+            data preprocessing/bbox_2_Segmentation_conversion.py 
 
 
     - [X] Trained COCO-InstanceSegmentation  mask_rcnn_R_50_FPN  over 512 training images. Train_Instance_Segmentation_MASKRCNN.py
 
-        > Train/Train_Instance_Segmentation_MASKRCNN.py 
+             Train/Train_Instance_Segmentation_MASKRCNN.py 
 
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/1_seg.png)
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
@@ -66,7 +66,7 @@
     
     # TRAINING CURVE
     
-        >LOGS:tennis-table/config/metrics.json
+        LOGS:tennis-table/config/metrics.json
     ![Training Logs](https://github.com/ap1690/tennis-table/blob/master/src/logs.jpeg)
     
     
