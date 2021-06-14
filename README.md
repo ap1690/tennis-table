@@ -37,7 +37,8 @@
     - [X] Augumented Scaledup DataSet from 500->1200 images . Used Flip X,Shear X,y,Rotation ,Noise
 
     - [X] Finetuned YOLOV3 for 10 Epoch .
-        >Train/yoloV3_finetuning.py
+               
+             Train/yoloV3_finetuning.py
 
     - [X] Total Loss : 33-->5.08 [For 10 Epoch]
     ![Augumented Data](https://github.com/ap1690/tennis-table/blob/master/src/aug_train.png)
@@ -66,7 +67,7 @@
     
     # TRAINING CURVE
     
-        LOGS:tennis-table/config/metrics.json
+        tennis-table/config/metrics.json
     ![Training Logs](https://github.com/ap1690/tennis-table/blob/master/src/logs.jpeg)
     
     
