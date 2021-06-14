@@ -32,12 +32,12 @@
     - [X] Cleaned and Converted Custom CSV to PascalVoc XML . 
   
   
-  > Data Preprocessing/Cleaned_CSV2VOCxml.py
+        > Data Preprocessing/Cleaned_CSV2VOCxml.py
 
     - [X] Augumented Scaledup DataSet from 500->1200 images . Used Flip X,Shear X,y,Rotation ,Noise
 
     - [X] Finetuned YOLOV3 for 10 Epoch .
->Train/yoloV3_finetuning.py
+        >Train/yoloV3_finetuning.py
 
     - [X] Total Loss : 33-->5.08 [For 10 Epoch]
     ![Augumented Data](https://github.com/ap1690/tennis-table/blob/master/src/aug_train.png)
@@ -53,12 +53,12 @@
 
     - [X] Converted The BBOX 512images to Instance Segmentation Dataset.  bbox_2_Segmentation_conversion.py
     
- >data preprocessing/bbox_2_Segmentation_conversion.py 
+        >data preprocessing/bbox_2_Segmentation_conversion.py 
 
 
     - [X] Trained COCO-InstanceSegmentation  mask_rcnn_R_50_FPN  over 512 training images. Train_Instance_Segmentation_MASKRCNN.py
 
-> Train/Train_Instance_Segmentation_MASKRCNN.py 
+        > Train/Train_Instance_Segmentation_MASKRCNN.py 
 
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/1_seg.png)
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
