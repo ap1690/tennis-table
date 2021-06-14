@@ -8,11 +8,10 @@
 
 
 ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
-![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/53.jpg)
 ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/98_seg.jpg)
 ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/65_seg.jpg)
-
 ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/93_seg.jpg)
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/53.jpg)
 
 
 
