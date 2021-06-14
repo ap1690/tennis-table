@@ -5,7 +5,9 @@
 
 ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/93_seg.jpg)
 
-
+-[X] Table Detection Using Basic Opencv Thresholding & Contouring
+-[X] Table Detection Using Object Detector
+-[X] Table Detection Using Segmentation 
 
 
 - [X] Object Detector
