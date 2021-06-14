@@ -5,23 +5,25 @@
 
 ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/93_seg.jpg)
 
--[X] Table Detection Using Basic Opencv Thresholding & Contouring
--[X] Table Detection Using Object Detector
--[X] Table Detection Using Segmentation 
+- [X] Table Detection Using Basic Opencv Thresholding & Contouring
+
+- [X] Table Detection Using Object Detector
+
+- [X] Table Detection Using Segmentation 
 
 
 - [X] Object Detector
 
-    -[*] Cleaned and Converted Custom CSV to PascalVoc XML .  Data Preprocessing/Cleaned_CSV2VOCxml.py
+    - [X] Cleaned and Converted Custom CSV to PascalVoc XML .  Data Preprocessing/Cleaned_CSV2VOCxml.py
 
-    -[*] Augumented Scaledup DataSet from 500->1200 images . Used Flip X,Shear X,y,Rotation ,Noise
+    - [X] Augumented Scaledup DataSet from 500->1200 images . Used Flip X,Shear X,y,Rotation ,Noise
     ![Augumented Data](https://github.com/ap1690/tennis-table/blob/master/src/aug_train.png)
     
-    -[X] Finetuned YOLOV3 for 10 Epoch .
+    - [X] Finetuned YOLOV3 for 10 Epoch .
     
     ![Fine Tuned YOLOV3](https://github.com/ap1690/tennis-table/blob/master/src/6-detected.jpg)
     
-    -[X] Total Loss : 33-->5.08 [For 10 Epoch]
+    - [X] Total Loss : 33-->5.08 [For 10 Epoch]
     
 - [X] Instance Segmentation
 
