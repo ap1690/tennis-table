@@ -29,7 +29,10 @@
 
 - [X] Object Detector
 
-    - [X] Cleaned and Converted Custom CSV to PascalVoc XML .  Data Preprocessing/Cleaned_CSV2VOCxml.py
+    - [X] Cleaned and Converted Custom CSV to PascalVoc XML . 
+  
+  
+  > Data Preprocessing/Cleaned_CSV2VOCxml.py
 
     - [X] Augumented Scaledup DataSet from 500->1200 images . Used Flip X,Shear X,y,Rotation ,Noise
 
