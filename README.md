@@ -56,7 +56,10 @@
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/1_seg.png)
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
     
-       
+    
+    # TRAINING CURVE
+    
+    
     ![Training Logs](https://github.com/ap1690/tennis-table/blob/master/src/logs.jpeg)
     
     
