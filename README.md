@@ -1,5 +1,8 @@
 # Tennis-Table-Detection
-
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/98_seg.jpg)
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/65_seg.jpg)
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/93_seg.png)
 
 
 - [X] Object Detector
@@ -11,7 +14,7 @@
     
     -[X] Finetuned YOLOV3 for 10 Epoch .
     
-    ![Fine Tuned YOLOV3](https://github.com/ap1690/tennis-table/blob/master/src/14-detected.jpg)
+    ![Fine Tuned YOLOV3](https://github.com/ap1690/tennis-table/blob/master/src/6-detected.jpg)
     
     -[X] Total Loss : 33-->5.08 [For 10 Epoch]
     
