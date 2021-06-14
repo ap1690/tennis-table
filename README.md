@@ -66,7 +66,7 @@
     
     # TRAINING CURVE
     
-    
+        >LOGS:tennis-table/config/metrics.json
     ![Training Logs](https://github.com/ap1690/tennis-table/blob/master/src/logs.jpeg)
     
     
