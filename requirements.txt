@@ -1,0 +1,12 @@
+tensorflow-gpu==1.13.1
+keras==2.1.5
+pyyaml==5.1
+torch==1.8
+torchvision
+detectron2
+imageai==2.1.0
+opencv-python
+ast
+pandas
+numpy
+matplotlib
