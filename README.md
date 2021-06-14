@@ -10,7 +10,7 @@
 
 - [X] Object Detector
 
-    -[*] Cleaned 
+    -[*] Cleaned and Converted Custom CSV to PascalVoc XML .  Data Preprocessing/Cleaned_CSV2VOCxml.py
 
     -[*] Augumented Scaledup DataSet from 500->1200 images . Used Flip X,Shear X,y,Rotation ,Noise
     ![Augumented Data](https://github.com/ap1690/tennis-table/blob/master/src/aug_train.png)
