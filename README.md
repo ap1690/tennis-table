@@ -1,15 +1,19 @@
 # Tennis-Table-Detection
-![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
-![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/98_seg.jpg)
-![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/65_seg.jpg)
-
-![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/93_seg.jpg)
 
 - [X] Table Detection Using Basic Opencv Thresholding & Contouring
 
 - [X] Table Detection Using Object Detector
 
 - [X] Table Detection Using Segmentation 
+
+
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/98_seg.jpg)
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/65_seg.jpg)
+
+![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/93_seg.jpg)
+
+
 
 
 - [X] Object Detector
@@ -41,6 +45,9 @@
     
     ## Inference
     [GOOGLE COLAB](https://colab.research.google.com/drive/1rFHio8HCqRdpj-0YdcAYkPOaNWdiphBb?usp=sharing)
+    
+    ## Weights
+    [GDRIVE](https://drive.google.com/drive/folders/1T4NpiQenrhYhE_IPrMrMQEwLsBaaE4V4?usp=sharing)
     
     
     
