@@ -52,7 +52,9 @@
     
 - [X] Instance Segmentation
     -  [X] Custom Dataset
-
+        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/890.png)
+        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/893.png)
+        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/896.png)
 
 
 
