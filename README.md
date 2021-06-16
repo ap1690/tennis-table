@@ -72,8 +72,13 @@
         
         - [X]
 
+    # Custom
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/1_seg.png)
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
+    
+    # OpenTTDataset
+    ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/opentt_cleaning.png)
+    ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/opentt_cleaning1.png)
     
    
     
