@@ -52,9 +52,7 @@
     
 - [X] Instance Segmentation
     -  [X] Custom Dataset
-        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/890.png)
-        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/893.png)
-        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/896.png)
+
 
 
 
@@ -69,6 +67,10 @@
                  
                  
     - [X] Fine Tuning On OPENTTDATASET
+
+        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/890.png)
+        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/893.png)
+        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/896.png)
         
         - [X] Preprocessing Of OpenTTDataset and Training. Coversion of masked with 3 classes-->Tennis Table Extracting
                                          
