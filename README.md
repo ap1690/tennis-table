@@ -68,7 +68,10 @@
                  
     - [X] Fine Tuning On OPENTTDATASET
         
-        - [X] Preprocessing Of OpenTTDataset. Coversion of masked with 3 classes-->Tennis Table Extracting
+        - [X] Preprocessing Of OpenTTDataset and Training. Coversion of masked with 3 classes-->Tennis Table Extracting
+                                         
+                -data processing/
+        
         
         - [X]
 
