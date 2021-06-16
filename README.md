@@ -64,13 +64,18 @@
         - [X] Trained COCO-InstanceSegmentation  mask_rcnn_R_50_FPN  over 512 training images. Train_Instance_Segmentation_MASKRCNN.py
 
                  Train/Train_Instance_Segmentation_MASKRCNN.py 
+                 
+                 
+    - [X] Fine Tuning On OPENTTDATASET
+        
+        - [X] Preprocessing Of OpenTTDataset. Coversion of masked with 3 classes-->Tennis Table Extracting
+        
+        - [X]
 
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/1_seg.png)
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
     
-    
-    - [X] Fine Tuning On OPENTTDATASET
-    - 
+   
     
     
     # TRAINING CURVE
