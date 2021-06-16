@@ -51,18 +51,26 @@
     
     
 - [X] Instance Segmentation
-
-    - [X] Converted The BBOX 512images to Instance Segmentation Dataset.  bbox_2_Segmentation_conversion.py
-    
-            data preprocessing/bbox_2_Segmentation_conversion.py 
+    -  [X] Custom Dataset
 
 
-    - [X] Trained COCO-InstanceSegmentation  mask_rcnn_R_50_FPN  over 512 training images. Train_Instance_Segmentation_MASKRCNN.py
 
-             Train/Train_Instance_Segmentation_MASKRCNN.py 
+
+            - [X] Converted The BBOX 512images to Instance Segmentation Dataset.  bbox_2_Segmentation_conversion.py
+
+                    data preprocessing/bbox_2_Segmentation_conversion.py 
+
+
+            - [X] Trained COCO-InstanceSegmentation  mask_rcnn_R_50_FPN  over 512 training images. Train_Instance_Segmentation_MASKRCNN.py
+
+                     Train/Train_Instance_Segmentation_MASKRCNN.py 
 
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/1_seg.png)
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
+    
+    
+    - [X] Fine Tuning On OPENTTDATASET
+    - 
     
     
     # TRAINING CURVE
