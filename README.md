@@ -70,23 +70,20 @@
         
         - [X] Preprocessing Of OpenTTDataset and Training. Coversion of masked with 3 classes-->Tennis Table Extracting
                                          
-                -data processing/
-        
-        
-        - [X]
+                -data processing/openttpreprocessing_Training.py
 
     # Custom
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/1_seg.png)
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
     
-     [MORE INFERENCES](https://drive.google.com/drive/folders/127Yg-1wEeQXEXr0qwPy0NpBwrkQB2XNc?usp=sharing)
+     # [MORE INFERENCES](https://drive.google.com/drive/folders/127Yg-1wEeQXEXr0qwPy0NpBwrkQB2XNc?usp=sharing)
      
     
     # OpenTTDataset
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/opentt_cleaning.png)
     ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/opentt_cleaning1.png)
     
-     [MORE INFERENCES](https://drive.google.com/drive/folders/10DP4s95B4YTjctJFa5acgICWIOfsMtVN?usp=sharing)
+     # [MORE INFERENCES](https://drive.google.com/drive/folders/10DP4s95B4YTjctJFa5acgICWIOfsMtVN?usp=sharing)
     
    
     
