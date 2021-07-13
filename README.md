@@ -41,12 +41,12 @@
              Train/yoloV3_finetuning.py
 
     - [X] Total Loss : 33-->5.08 [For 10 Epoch]
-    ![Augumented Data](https://github.com/ap1690/tennis-table/blob/master/src/aug_train.png)
+    ![Augumented Data](src/aug_train.png)
     
 
     
     
-    ![Fine Tuned YOLOV3](https://github.com/ap1690/tennis-table/blob/master/src/6-detected.jpg)
+    ![Fine Tuned YOLOV3](src/6-detected.jpg)
     
     
     
@@ -68,24 +68,24 @@
                  
     - [X] Fine Tuning On OPENTTDATASET
 
-        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/890.png)
-        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/893.png)
-        ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/896.png)
+        ![Segmentation Data](src/890.png)
+        ![Segmentation Data](src/893.png)
+        ![Segmentation Data](src/896.png)
         
         - [X] Preprocessing Of OpenTTDataset and Training. Coversion of masked with 3 classes-->Tennis Table Extracting
                                          
                 -data processing/openttpreprocessing_Training.py
 
     # Custom
-    ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/1_seg.png)
-    ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/3_seg.png)
+    ![Segmentation Data](src/1_seg.png)
+    ![Segmentation Data](src/3_seg.png)
     
      # [MORE INFERENCE RESULT](https://drive.google.com/drive/folders/127Yg-1wEeQXEXr0qwPy0NpBwrkQB2XNc?usp=sharing)
      
     
     # OpenTTDataset
-    ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/opentt_cleaning.png)
-    ![Segmentation Data](https://github.com/ap1690/tennis-table/blob/master/src/opentt_cleaning1.png)
+    ![Segmentation Data](src/opentt_cleaning.png)
+    ![Segmentation Data](src/opentt_cleaning1.png)
     
      # [MORE INFERENCE RESULTS](https://drive.google.com/drive/folders/10DP4s95B4YTjctJFa5acgICWIOfsMtVN?usp=sharing)
     
@@ -95,10 +95,10 @@
     # TRAINING CURVE
     
         tennis-table/config/metrics.json
-    ![Training Logs](https://github.com/ap1690/tennis-table/blob/master/src/logs.jpeg)
+    ![Training Logs](src/logs.jpeg)
     
     
-    ![Training Logs](https://github.com/ap1690/tennis-table/blob/master/src/tensorboard.png)
+    ![Training Logs](src/tensorboard.png)
     
     
     ## Inference
